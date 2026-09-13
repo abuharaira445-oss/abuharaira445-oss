@@ -1,5 +1,5 @@
 💫 About Me:<br>
-<br>Hi 👋, I'm Harii<br><br>🎓 BS Computer Science @ GIFT University | 2nd Semester <br> <br>🛠️ What I Build With<br>Python · Flask · FastAPI · Supabase · PostgreSQL  <br>LangChain · LangGraph · pgvector · RAG Pipelines  <br>JavaScript · HTML · CSS · REST APIs  <br>)  <br>- Agentic AI systems & real-world AI applications  <br><br>📦 Deployed Projects<br>- *HomeoSoft* — B2B SaaS for homeopathic clinics  <br>- *RubrIQ* — Kent's Repertory + Materia Medica microservice  <br><br>
+<br>Hi 👋, I'm Harii<br><br>🎓 BS Computer Science @ GIFT University | 2nd Semester <br> <br>🛠️ What I Build With<br>Python · Flask · FastAPI · Numpy · Supabase · PostgreSQL  <br>LangChain · LangGraph · pgvector · RAG Pipelines  <br>JavaScript · HTML · CSS · REST APIs <br>  <br>- Agentic AI systems & real-world AI applications  <br><br>📦 Deployed Projects<br>- *HomeoSoft* — B2B SaaS for homeopathic clinics  <br>- *RubrIQ* — Kent's Repertory + Materia Medica microservice  <br><br>
 
 
 ## 🌐 Socials:
